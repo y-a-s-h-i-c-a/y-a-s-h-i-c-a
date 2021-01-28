@@ -13,19 +13,7 @@
 </a>
 </p>
 
-
-
-<br />
-
-
-<img align="center" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" height="150" width= "180">
-
-
-
-
-
-<br/>
-
+<img align="right" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" height="150" width= "180">
 
 <h2 align="left">Talking about Personal Stuffs👩🏻‍💼 :</h2>
 
