@@ -1,17 +1,15 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=prathamgoyal07&label=Profile%20views&color=0e75b6&style=flat" alt="prathamgoyal07"</p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=y-a-s-h-i-c-a&label=Profile%20views&color=0e75b6&style=flat" alt="y-a-s-h-i-c-a"</p>
 
-<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm Pratham Goyal.</h1>
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm Yashica.</h1>
 
 <p align="left">
-<a href="https://linkedin.com/in/prathamgoyal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="prathamgoyal07" height="30" width="40" />
+<a href="https://linkedin.com/in/yashica-15" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="yashica-15" height="30" width="40" />
 </a>
-<a href="https://twitter.com/im_prathamgoyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="im_prathamgoyal" height="30" width="40" />
+<a href="https://twitter.com/yashica_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="yashica_07" height="30" width="40" />
 </a>
-<a href="https://instagram.com/imprathamgoyal07" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-128.png" alt="imprathamgoyal07" height="30" width="40" />
+<a href="https://instagram.com/yashica_15" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-128.png" alt="yashica_15" height="30" width="40" />
 </a>
-<a href="https://www.hackerrank.com/prathamgoyal157" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-128.png" alt="prathamgoyal157" height="30" width="40" />
-</a>
-<a href="https://discord.gg/pratham#0088" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="pratham#0088" height="30" width="40" />
+<a href="https://discord.gg/yashica#8005" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="yashica#8005" height="30" width="40" />
 </a>
 </p>
 
@@ -20,27 +18,21 @@
 <br />
 
 
-<img align='left' src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" height="150" width= "180">
+<img align='center' src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" height="150" width= "180">
 
 
-```javascript
-const Pratham Goyal => {
-  Question:"Why do Java Programmers have to wear glasses?",
-  Answer: "Because they don't C#.
-                        (see sharp)"
-}
-```
+
 
 
 <br/>
 
 
-<h2 align="left">Talking about Personal Stuffs👨🏻‍💼 :</h2>
+<h2 align="left">Talking about Personal Stuffs👩🏻‍💼 :</h2>
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning JAVA & Full Stack Web Developement 🚀 ; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me:[📧prathamgoyal157@gmail.com];
+- 📫 How to reach me:[📧yashica1501@gmail.com];
 
 
 <br/>
@@ -67,12 +59,12 @@ const Pratham Goyal => {
 
 <h2 align="left">My GitHub Activity 📈:</h2>
 
-<a  href="https://github.com/prathamgoyal07">
+<a  href="https://github.com/y-a-s-h-i-c-a">
 
 
-<img height="200em"  src="https://github-readme-stats.vercel.app/api?username=prathamgoyal07&show_icons=true&theme=tokyonight" />
+<img height="200em"  src="https://github-readme-stats.vercel.app/api?username=y-a-s-h-i-c-a&show_icons=true&theme=gotham" />
 
 
-<img  height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamgoyal07&show_icons=true&theme=tokyonight" />
+<img  height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=y-a-s-h-i-c-a&show_icons=gotham=compact" />
 
 </a>
