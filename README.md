@@ -13,7 +13,7 @@
 </a>
 </p>
 
-<img align="right" src="https://i.giphy.com/media/1yk0v6WtCinP5Ptz6G/200w.webp" height="200" width= "200">
+<img align="right" src="https://i.giphy.com/media/1yk0v6WtCinP5Ptz6G/200w.webp" height="300" width= "300">
 
 <h2 align="left">Talking about Personal Stuffs👩🏻‍💼 :</h2>
 
@@ -23,7 +23,7 @@
 - 📫 How to reach me:[📧yashica1501@gmail.com];
 
 
-<br/>
+
 
 
 <h2 align="left">Languages🅰️ & Tools🔧:</h2>
@@ -42,7 +42,7 @@
 </p>
 
 
-<br/>
+
 
 
 <h2 align="left">My GitHub Activity 📈:</h2>
