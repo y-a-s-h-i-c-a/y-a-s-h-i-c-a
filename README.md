@@ -65,6 +65,6 @@
 <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=y-a-s-h-i-c-a&show_icons=true&theme=gotham" />
 
 
-<img  height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=y-a-s-h-i-c-a&show_icons=gotham" />
+<img  height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=y-a-s-h-i-c-a&show_icons=true&theme=gotham" />
 
 </a>
