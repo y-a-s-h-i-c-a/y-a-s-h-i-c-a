@@ -17,6 +17,7 @@
 
 
 <h2 align="left">Talking about Personal Stuffs👩🏻‍💼 :</h2>
+
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning JAVA & Full Stack Web Developement 🚀 ; 
 - 💬 Ask me about anything, I am happy to help;
