@@ -18,7 +18,7 @@
 <br />
 
 
-<img align='center' src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" height="150" width= "180">
+<img align="center" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" height="150" width= "180">
 
 
 
@@ -65,6 +65,6 @@
 <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=y-a-s-h-i-c-a&show_icons=true&theme=gotham" />
 
 
-<img  height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=y-a-s-h-i-c-a&show_icons=gotham=compact" />
+<img  height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=y-a-s-h-i-c-a&show_icons=gotham" />
 
 </a>
