@@ -13,19 +13,12 @@
 </a>
 </p>
 
-<img align="right" src="https://i.giphy.com/media/1yk0v6WtCinP5Ptz6G/200w.webp" height="300" width= "300">
-
+<img align="right" src="https://i.giphy.com/media/1yk0v6WtCinP5Ptz6G/200w.webp" height="250" width= "250">
 <h2 align="left">Talking about Personal Stuffs👩🏻‍💼 :</h2>
-
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning JAVA & Full Stack Web Developement 🚀 ; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me:[📧yashica1501@gmail.com];
-
-
-
-
-
 <h2 align="left">Languages🅰️ & Tools🔧:</h2>
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
@@ -40,10 +33,6 @@
 <a href="https://github.com/puppeteer/puppeteer" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
-
-
-
-
 
 <h2 align="left">My GitHub Activity 📈:</h2>
 
