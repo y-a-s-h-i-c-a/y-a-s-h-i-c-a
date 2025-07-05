@@ -2,16 +2,6 @@
 
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm Yashica.</h1>
 
-<p align="left">
-<a href="https://linkedin.com/in/yashica-15" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="yashica-15" height="30" width="40" />
-</a>
-<a href="https://twitter.com/yashica_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="yashica_07" height="30" width="40" />
-</a>
-<a href="https://instagram.com/yashica_15" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-128.png" alt="yashica_15" height="30" width="40" />
-</a>
-<a href="https://discord.gg/yashica#8005" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="yashica#8005" height="30" width="40" />
-</a>
-</p>
 
 
 <br/>
